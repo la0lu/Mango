@@ -1,0 +1,144 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+# ASP.NET Core
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio directories
+.vs/
+.vscode/
+*_i.c/
+*_p.c/
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.pdb
+*.res
+*.obj
+*.pch
+*.idb
+*.manifest
+*.exe
+*.dll
+*.cachefile
+*.ilk
+*.aps
+*.proj
+*.pdb
+*.user
+*.ncb
+*.suo
+*.tlb
+*.tli
+*.tlh
+*.sbr
+*.suo
+*.user
+*.map
+*.exp
+*.aps
+*.pch
+*.vsp
+*.vspx
+*.exp
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
