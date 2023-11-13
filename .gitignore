@@ -142,3 +142,4 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/Mango.Web/appsettings.Development.json
